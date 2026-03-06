@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Logical Op</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_age">enter your age</string>
+    <string name="staff_member">Staff Member</string>
+    <string name="it_student">it student</string>
+    <string name="banned_from_store">Banned from store</string>
+    <string name="check_discount_eligibility">Check discount eligibility</string>
 </resources>
