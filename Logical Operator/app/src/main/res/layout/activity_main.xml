@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tvResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Results will appear here"
@@ -84,7 +84,7 @@
         app:layout_constraintVertical_bias="0.366" />
 
     <CheckBox
-        android:id="@+id/cbBand"
+        android:id="@+id/cbBanned"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/banned_from_store"
